@@ -1,0 +1,11 @@
+C:\Users\1191113857\source\repos\Jogo2UnidadeJTY\Jogo2UnidadeJTY\bin\Debug\netcoreapp2.2\Jogo2UnidadeJTY.deps.json
+C:\Users\1191113857\source\repos\Jogo2UnidadeJTY\Jogo2UnidadeJTY\bin\Debug\netcoreapp2.2\Jogo2UnidadeJTY.runtimeconfig.json
+C:\Users\1191113857\source\repos\Jogo2UnidadeJTY\Jogo2UnidadeJTY\bin\Debug\netcoreapp2.2\Jogo2UnidadeJTY.runtimeconfig.dev.json
+C:\Users\1191113857\source\repos\Jogo2UnidadeJTY\Jogo2UnidadeJTY\bin\Debug\netcoreapp2.2\Jogo2UnidadeJTY.dll
+C:\Users\1191113857\source\repos\Jogo2UnidadeJTY\Jogo2UnidadeJTY\bin\Debug\netcoreapp2.2\Jogo2UnidadeJTY.pdb
+C:\Users\1191113857\source\repos\Jogo2UnidadeJTY\Jogo2UnidadeJTY\obj\Debug\netcoreapp2.2\Jogo2UnidadeJTY.csprojAssemblyReference.cache
+C:\Users\1191113857\source\repos\Jogo2UnidadeJTY\Jogo2UnidadeJTY\obj\Debug\netcoreapp2.2\Jogo2UnidadeJTY.csproj.CoreCompileInputs.cache
+C:\Users\1191113857\source\repos\Jogo2UnidadeJTY\Jogo2UnidadeJTY\obj\Debug\netcoreapp2.2\Jogo2UnidadeJTY.AssemblyInfoInputs.cache
+C:\Users\1191113857\source\repos\Jogo2UnidadeJTY\Jogo2UnidadeJTY\obj\Debug\netcoreapp2.2\Jogo2UnidadeJTY.AssemblyInfo.cs
+C:\Users\1191113857\source\repos\Jogo2UnidadeJTY\Jogo2UnidadeJTY\obj\Debug\netcoreapp2.2\Jogo2UnidadeJTY.dll
+C:\Users\1191113857\source\repos\Jogo2UnidadeJTY\Jogo2UnidadeJTY\obj\Debug\netcoreapp2.2\Jogo2UnidadeJTY.pdb
