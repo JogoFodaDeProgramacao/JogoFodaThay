@@ -104,7 +104,7 @@ namespace JogoPica
                 Random random2 = new Random();
                 int num2 = random2.Next(1, 15);
 
-                int respSoma = num1 + num1;
+                int respSoma = num1 + num2;
                 int respMulti = num1 * num2;
                 int respQuadSoma = num1 * num1;
 
