@@ -1,0 +1,7 @@
+C:\Users\thaya\source\repos\JogoPica\bin\Debug\JogoPica.exe.config
+C:\Users\thaya\source\repos\JogoPica\bin\Debug\JogoPica.exe
+C:\Users\thaya\source\repos\JogoPica\bin\Debug\JogoPica.pdb
+C:\Users\thaya\source\repos\JogoPica\obj\Debug\JogoPica.csprojAssemblyReference.cache
+C:\Users\thaya\source\repos\JogoPica\obj\Debug\JogoPica.csproj.CoreCompileInputs.cache
+C:\Users\thaya\source\repos\JogoPica\obj\Debug\JogoPica.exe
+C:\Users\thaya\source\repos\JogoPica\obj\Debug\JogoPica.pdb
